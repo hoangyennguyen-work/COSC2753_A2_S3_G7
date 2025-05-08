@@ -1,7 +1,0 @@
-{
-    "dropout_rate": 0.21884789856377507,
-    "l2_reg": 1.2398817172244752e-05,
-    "learning_rate": 0.000479815574493443,
-    "lr_scheduler": "cosine",
-    "loss_function": "huber"
-}
