@@ -1,0 +1,4 @@
+models
+.qodo
+__pycache__/
+*.py[cod]
